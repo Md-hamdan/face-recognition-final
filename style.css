@@ -1,0 +1,9 @@
+#camera {
+    bottom: auto;
+    border-radius: 20%;
+    grid-auto-flow: column;
+    width: 400%;
+    height: 500%;
+    border-color: blue;
+}
+
